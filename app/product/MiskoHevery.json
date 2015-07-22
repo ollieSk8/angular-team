@@ -1,0 +1,10 @@
+[
+	{
+		"headline":"Miško Hevery",
+		"body":"Miško Hevery is the creator of AngularJS framework. He has passion for making complex things simple. He currently works at Google, but has previously worked at Adobe, Sun Microsystems, Intel, and Xerox, where he became an expert in building web applications in web related technologies such as Java, JavaScript, Flex and ActionScript.",
+		"imgsrc":"img/person/misko.jpg",
+		"personId":"MiskoHevery",
+		"Twitter":"https://twitter.com/mhevery",
+		"Website":"http://misko.hevery.com/"
+	}
+]

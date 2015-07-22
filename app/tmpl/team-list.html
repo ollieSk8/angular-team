@@ -1,0 +1,14 @@
+<!-- 人员列表 -->
+<div class="person-list">
+	<ul>
+		<li ng-repeat="data in team">
+			<a href="#/team/{{data.personId}}">
+				<img ng-src="{{data.imgsrc}}"/>
+				<h3 class="text-headline">{{data.headline}}</h3>
+				<p class="text-body">{{data.body}}</p>
+			</a>
+		</li>
+	</ul>
+</div>
+<div class="blank20"></div>
+<!-- 人员列表 end -->
